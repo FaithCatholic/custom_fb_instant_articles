@@ -2,7 +2,7 @@
 
 namespace Drupal\custom_fb_instant_articles\Plugin\views\row;
 
-use Drupal\fb_instant_articles\Plugin\views\row\FiaFields;
+use Drupal\fb_instant_articles_views\Plugin\views\row\FiaFields;
 use Drupal\views\Plugin\views\row\EntityRow;
 use Drupal\Core\Entity\EntityManagerInterface;
 use Drupal\Core\Language\LanguageManagerInterface;
